@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 2/13/2014 10:35:32 PM.
+     1>Proyecto "C:\proyecto\proyectoprogram1\src\proyecto1\proyecto1.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Aplicando tarea Touch a "Debug\proyecto1.unsuccessfulbuild".
+       ClCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\proyecto\proyectoprogram1\src\proyecto1\Debug\proyecto1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\proyecto1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\proyecto\proyectoprogram1\src\proyecto1\Debug\proyecto1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\proyecto\proyectoprogram1\src\proyecto1\Debug\proyecto1.lib" /MACHINE:X86 Debug\proyecto1.obj
+     1>proyecto1.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+         proyecto1.vcxproj -> C:\proyecto\proyectoprogram1\src\proyecto1\Debug\proyecto1.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\proyecto\proyectoprogram1\src\proyecto1\Debug\proyecto1.exe;#1" /manifest Debug\proyecto1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\proyecto1.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\proyecto1.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\proyecto\proyectoprogram1\src\proyecto1\proyecto1.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.86
