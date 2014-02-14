@@ -2,5 +2,5 @@
 
 int main ()
 {
-	printf (" ingrese una palabra");
+	printf ("hola libny");
 }
