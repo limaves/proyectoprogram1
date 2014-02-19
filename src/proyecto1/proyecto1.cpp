@@ -13,10 +13,13 @@ int main ()
 
 	while(continua!='n')
 	{
-
 	
-	cout<<("lanza numeros ")<<endl;
-	cout<<("lanse el primer numero ")<<endl;
+	cout<<"********************************************************************"<<endl;
+    cout<<"*                      lanza numeros                               *"<<endl;
+	cout<<"********************************************************************"<<endl;
+	
+	cout<<endl;
+	cout<<"lanse el primer numero "<<endl;
 	int  a,b,c,d;
 	/* inicialize  la semilla del  random : */
   srand (time(NULL));
