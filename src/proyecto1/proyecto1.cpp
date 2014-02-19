@@ -30,6 +30,12 @@ int main ()
 	 c = lanzarnumero();
 	 d = lanzarnumero();
     
+	cout<<"************************************************"<<endl;
+    cout<<"*  "<<a<<"  *  "<<b<<"  *  "<<c<<"  *  "<<d<<"  *";
+	cout<<"************************************************"<<endl;
+	
+	
+	
 	 int numero [4] = {a, b, c, d};
 
 	 int numerosiguales=obtenerlosnumerosiguales(numero);
@@ -80,8 +86,7 @@ int obtenerlosnumerosiguales(int numeros[])
 int lanzarnumero()  
 {	
 	int numero; 
-	numero=rand() % 9 + 0;
-	cout<<" el  numero es: "<<numero<<endl;
+	numero=rand() % 9 + 0;	
 	return numero;
 
 
